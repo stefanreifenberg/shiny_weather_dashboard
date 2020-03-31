@@ -1,0 +1,19 @@
+# A minimal shiny weather dashboard
+
+## Overview
+This dashboard uses the [openweathermap](https://openweathermap.org/api) API to get current weather conditions as well as a 5 day forecast for a specific location.
+
+## API usage guide
+https://openweathermap.org/appid#work
+
+## Setup
+- get and API key (just regist)
+- change the coordinates to your location
+
+## API key
+To get an API key simply register on t
+
+
+
+## Coordinates
+https://openweathermap.org/find?q=
