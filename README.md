@@ -2,6 +2,8 @@
 
 ![screenshot](Screenshot.png)
 
+### Demo can be found [here](https://reyfen.shinyapps.io/weather_demo/)
+
 ## Overview
 This dashboard uses the [openweathermap](https://openweathermap.org/api) API to get current weather conditions as well as a 5 day forecast for a specific location. Data is fetched every 10 minutes which is recommended by the API documentation.
 
